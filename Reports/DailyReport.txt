@@ -28,3 +28,33 @@ TonexCoin: Growth since the release: -26.54% - Average growth per hour: -0.18%
 Virtual Reality Glasses: Growth since the release: -18.41% - Average growth per hour: -0.13%
 Wallet VPN: Growth since the release: -12.19% - Average growth per hour: -0.08%
 WIZ Protocol: Growth since the release: 38.8% - Average growth per hour: 0.27%
+Ambra: Growth since the release: 31.96% - Average growth per hour: 0.22%
+Arora: Growth since the release: 14.16% - Average growth per hour: 0.1%
+Bitcointry Token: Growth since the release: 39.3% - Average growth per hour: 0.27%
+Blockchain Bets: Growth since the release: -15.78% - Average growth per hour: -0.11%
+Blossom: Growth since the release: -14.63% - Average growth per hour: -0.1%
+CHILI: Growth since the release: -33.46% - Average growth per hour: -0.23%
+Clavell Inu: Growth since the release: -45.68% - Average growth per hour: -0.31%
+Data Lake: Growth since the release: 89.12% - Average growth per hour: 0.61%
+Dubbz: Growth since the release: 22.44% - Average growth per hour: 0.15%
+FitMa: Growth since the release: -66.54% - Average growth per hour: -0.46%
+Galaxy Villains: Growth since the release: -29.25% - Average growth per hour: -0.2%
+GameGaw: Growth since the release: -97.2% - Average growth per hour: -0.67%
+HanChain: Growth since the release: 12.06% - Average growth per hour: 0.08%
+hiMOONBIRDS: Growth since the release: -10.08% - Average growth per hour: -0.07%
+Jimizz: Growth since the release: -4.75% - Average growth per hour: -0.03%
+METAFASTEST: Growth since the release: -33.84% - Average growth per hour: -0.23%
+Network Capital Token: Growth since the release: 22.65% - Average growth per hour: 0.16%
+NirvanaMeta V2: Growth since the release: -47.69% - Average growth per hour: -0.33%
+Onigiri Neko: Growth since the release: -51.38% - Average growth per hour: -0.35%
+PrivaCoin: Growth since the release: -1.0% - Average growth per hour: -0.01%
+Pusuke Inu: Growth since the release: -69.73% - Average growth per hour: -0.48%
+Scaleton: Growth since the release: 154.09% - Average growth per hour: 1.06%
+ShibaInu Finance: Growth since the release: 11.57% - Average growth per hour: 0.08%
+Storepay: Growth since the release: -100.0% - Average growth per hour: -0.75%
+Tender.fi: Growth since the release: 149.23% - Average growth per hour: 1.02%
+Three Dildos Capital: Growth since the release: 15.87% - Average growth per hour: 0.11%
+TonexCoin: Growth since the release: -25.9% - Average growth per hour: -0.18%
+Virtual Reality Glasses: Growth since the release: -18.9% - Average growth per hour: -0.13%
+Wallet VPN: Growth since the release: -12.64% - Average growth per hour: -0.09%
+WIZ Protocol: Growth since the release: 38.32% - Average growth per hour: 0.26%
