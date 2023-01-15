@@ -1,6 +1,7 @@
 from datetime import datetime
 import os
 from Predict.calculateGrowth import calc_growth
+from Predict.calculateAverageGrowth import calculate_avg
 
 
 def get_growth():
@@ -24,7 +25,7 @@ def get_growth():
             coin_data_clean.append([datetime.strptime(entry[0], DATETIME_FORMAT), entry[1]])  # [0]Date and time, [1]price for that time
 
         growth = calc_growth(coin_data_clean)  # Overall growth
-        avg_growth = growth / len(coin_data_clean)
+        avg_growth = calculate_avg(coin_data_clean)  # Average growth per hour
 
         with open('Reports/DailyReport.txt', 'a+') as af:
             af.write(f"""{path.strip('.txt')}: Growth since the release: {growth}% - Average growth per hour: {
