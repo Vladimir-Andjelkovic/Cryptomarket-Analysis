@@ -29,4 +29,4 @@ def get_growth():
 
         with open('Reports/DailyReport.txt', 'a+') as af:
             af.write(f"""{path.strip('.txt')}: Growth since the release: {growth}% - Average growth per hour: {
-            round(avg_growth, 2)}%\n""")
+            avg_growth}%\n""")
